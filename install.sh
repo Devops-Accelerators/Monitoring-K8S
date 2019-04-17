@@ -15,7 +15,7 @@ kubectl create clusterrolebinding admin-cluster-binding --clusterrole=cluster-ad
 
 #applying the yaml file
 kubectl apply \
-  --filename https://raw.githubusercontent.com/idevopsguy/prometheus-grafana-k8s/master/manifests-all.yaml
+  --filename https://raw.githubusercontent.com/rathoremayank/prometheus-grafana-k8s/master/manifests-all.yaml
 
 echo "..."
 echo "..."

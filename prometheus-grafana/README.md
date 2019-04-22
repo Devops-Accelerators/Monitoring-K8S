@@ -9,7 +9,9 @@ sh install.sh
 ```
 
 2) Accessing Grafana UI
+```
 Visit <your-vm-ip>:3000
+```
 
 
 Clean-up: 
